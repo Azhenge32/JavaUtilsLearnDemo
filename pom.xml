@@ -31,9 +31,48 @@
       <version>23.6-jre</version>
     </dependency>
     <dependency>
-      <groupId>org.junit.jupiter</groupId>
-      <artifactId>junit-jupiter-api</artifactId>
-      <version>RELEASE</version>
+      <groupId>commons-beanutils</groupId>
+      <artifactId>commons-beanutils</artifactId>
+      <version>1.9.3</version>
+    </dependency>
+    <dependency>
+      <groupId>commons-io</groupId>
+      <artifactId>commons-io</artifactId>
+      <version>2.4</version>
+    </dependency>
+    <!-- https://mvnrepository.com/artifact/org.apache.commons/commons-lang3 -->
+    <dependency>
+      <groupId>org.apache.commons</groupId>
+      <artifactId>commons-lang3</artifactId>
+      <version>3.4</version>
+    </dependency>
+    <dependency>
+      <groupId>org.apache.commons</groupId>
+      <artifactId>commons-collections4</artifactId>
+      <version>4.1</version>
+    </dependency>
+    <!-- https://mvnrepository.com/artifact/org.javassist/javassist -->
+    <dependency>
+      <groupId>org.javassist</groupId>
+      <artifactId>javassist</artifactId>
+      <version>3.22.0-GA</version>
+    </dependency>
+    <!-- https://mvnrepository.com/artifact/org.ow2.asm/asm-all -->
+    <dependency>
+      <groupId>org.ow2.asm</groupId>
+      <artifactId>asm-all</artifactId>
+      <version>5.0.4</version>
+    </dependency>
+    <dependency>
+      <groupId>org.tensorflow</groupId>
+      <artifactId>tensorflow</artifactId>
+      <version>1.6.0</version>
+    </dependency>
+    <!-- https://mvnrepository.com/artifact/com.lmax/disruptor -->
+    <dependency>
+      <groupId>com.lmax</groupId>
+      <artifactId>disruptor</artifactId>
+      <version>3.4.2</version>
     </dependency>
 
   </dependencies>
